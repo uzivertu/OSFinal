@@ -4,3 +4,5 @@ Operating Systems Final Assignment
 ## CS-2107S
 # Students: 
 ## Emir Satybaldiyev, Nurbek Naiman, Evgeniy Smagin, Ertuar Erkebulan, Adilzhan Bekbolat
+# Teacher:
+## Arailym Tleubayeva

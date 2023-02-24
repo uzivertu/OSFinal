@@ -1,5 +1,5 @@
-# OSFinal
-Operating Systems Final Assignment
+# OSC Final
+## Operating System Concepts Final Assignment
 # Group: 
 ## CS-2107S
 # Students: 
